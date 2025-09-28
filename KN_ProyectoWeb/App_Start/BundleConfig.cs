@@ -1,5 +1,4 @@
-﻿using System.Web;
-using System.Web.Optimization;
+﻿using System.Web.Optimization;
 
 namespace KN_ProyectoWeb
 {
@@ -8,7 +7,7 @@ namespace KN_ProyectoWeb
         // Para obtener más información sobre las uniones, visite https://go.microsoft.com/fwlink/?LinkId=301862
         public static void RegisterBundles(BundleCollection bundles)
         {
-            
+
         }
     }
 }
